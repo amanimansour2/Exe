@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 second hello1
 so the file will look
 hello1
 second hello
 
+=======
+hello1.1
+>>>>>>> branch_test2
